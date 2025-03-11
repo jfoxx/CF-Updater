@@ -1,0 +1,27 @@
+[
+    {
+        "properties": {
+            "cq:model": "/conf/warp/settings/dam/cfm/models/government-service",
+            "title": "Boating License Application part 2",
+            "description": "Apply for or renew a boating license in Washington.",
+            "elements": {
+                "title": {
+                    "value": "Boating License Application",
+                    ":type": "text/plain"
+                },
+                "description": {
+                    "value": "Apply for or renew a boating license in Washington.",
+                    ":type": "text/html"
+                },
+                "link": {
+                    "value": "https://www.example.com/boating_license_application",
+                    ":type": "text/plain"
+                },
+                "agency": {
+                    "value": "DOL",
+                    ":type": "tag"
+                }
+            }
+        }
+    }
+]
