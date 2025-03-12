@@ -50,3 +50,12 @@ Please generate 40 Washington state agency services and return those into a sing
     }
 }
 ```
+What you will get as a response varies based on the AI agent you are using. But it should be a JSON file you can download with all of the fragment definitions grouped together into a single array.  Once you have that file, you can add the path to that file as the variable `jsonFile`.
+
+## Usage 
+Now that you have all of the pieces, open a terminal from inside the project folder and run `npm install --save`. Once installation completes, run `npm start`.
+The script will grab a new token and perform a `POST` on the AEM instance with each of the items in the AI-provided JSON file. You should see a line for each item in the console saying it was created.
+
+## Troubleshooting
+If the process fails before a POST is made, it's likely that one of your variables is pointing to the wrong file name. Double check your variables and make sure those paths are correct.  
+If you get 401 responses from each of the item, that means something is off with the token or your service account doesn't have proper access.  Make sure the token is being received, you will see something in the console with the payload of the response, showing when the token expires, etc. If that is displaying, check AEM security to provide your technical account with `jcr:all` permissions on the /content nodes it is writing to. 
