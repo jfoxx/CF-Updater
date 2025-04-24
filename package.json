@@ -1,0 +1,14 @@
+{
+  "name": "cf-updater",
+  "version": "1.0.0",
+  "description": "Utility to create content fragments based on an array of data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "jfoxx",
+  "license": "ISC",
+  "dependencies": {
+    "@adobe/aemcs-api-client-lib": "git+https://github.com/adobe/aemcs-api-client-lib.git#main"
+  }
+}

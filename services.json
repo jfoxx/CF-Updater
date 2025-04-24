@@ -1,0 +1,1362 @@
+[
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Renew Driver's License",
+      "description": "Renew your North Carolina driver's license online.",
+      "elements": {
+        "title": {
+          "value": "Renew Driver's License",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Renew your North Carolina driver's license online.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Renew Driver's License",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/id-card"
+        },
+        "keywords": {
+          "value": "driver's license, renew, DMV, driving"
+        },
+        "serviceId": {
+          "value": "1023"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Register to Vote",
+      "description": "Register to vote in North Carolina elections.",
+      "elements": {
+        "title": {
+          "value": "Register to Vote",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Register to vote in North Carolina elections.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Register to Vote",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCS",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/vote-yea"
+        },
+        "keywords": {
+          "value": "vote, registration, elections, democracy"
+        },
+        "serviceId": {
+          "value": "2045"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Apply for Unemployment Benefits",
+      "description": "Apply for unemployment benefits if you have lost your job.",
+      "elements": {
+        "title": {
+          "value": "Apply for Unemployment Benefits",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Apply for unemployment benefits if you have lost your job.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Apply for Unemployment Benefits",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/ESC",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/briefcase"
+        },
+        "keywords": {
+          "value": "unemployment, benefits, job loss, financial aid"
+        },
+        "serviceId": {
+          "value": "3098"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Renew Vehicle Registration",
+      "description": "Renew your vehicle registration online.",
+      "elements": {
+        "title": {
+          "value": "Renew Vehicle Registration",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Renew your vehicle registration online.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Renew Vehicle Registration",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/car"
+        },
+        "keywords": {
+          "value": "vehicle, registration, renew, DMV"
+        },
+        "serviceId": {
+          "value": "4127"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Apply for Medicaid",
+      "description": "Apply for Medicaid health coverage.",
+      "elements": {
+        "title": {
+          "value": "Apply for Medicaid",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Apply for Medicaid health coverage.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Apply for Medicaid",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/medkit"
+        },
+        "keywords": {
+          "value": "Medicaid, health coverage, insurance, medical"
+        },
+        "serviceId": {
+          "value": "5234"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Pay Property Taxes",
+      "description": "Pay your property taxes online.",
+      "elements": {
+        "title": {
+          "value": "Pay Property Taxes",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Pay your property taxes online.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Pay Property Taxes",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/home"
+        },
+        "keywords": {
+          "value": "property taxes, payment, taxes, finance"
+        },
+        "serviceId": {
+          "value": "6341"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Apply for Food Assistance (SNAP)",
+      "description": "Apply for food assistance through the Supplemental Nutrition Assistance Program (SNAP).",
+      "elements": {
+        "title": {
+          "value": "Apply for Food Assistance (SNAP)",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Apply for food assistance through the Supplemental Nutrition Assistance Program (SNAP).",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Apply for Food Assistance",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/utensils"
+        },
+        "keywords": {
+          "value": "food assistance, SNAP, nutrition, benefits"
+        },
+        "serviceId": {
+          "value": "7458"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Report Child Abuse",
+      "description": "Report suspected child abuse or neglect.",
+      "elements": {
+        "title": {
+          "value": "Report Child Abuse",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Report suspected child abuse or neglect.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Report Child Abuse",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/child"
+        },
+        "keywords": {
+          "value": "child abuse, report, protection, welfare"
+        },
+        "serviceId": {
+          "value": "8569"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Apply for a Business License",
+      "description": "Apply for a business license to operate in North Carolina.",
+      "elements": {
+        "title": {
+          "value": "Apply for a Business License",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Apply for a business license to operate in North Carolina.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Apply for a Business License",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCS",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/briefcase"
+        },
+        "keywords": {
+          "value": "business license, application, business, registration"
+        },
+        "serviceId": {
+          "value": "9672"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Renew Professional License",
+      "description": "Renew your professional license online.",
+      "elements": {
+        "title": {
+          "value": "Renew Professional License",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Renew your professional license online.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Renew Professional License",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/id-badge"
+        },
+        "keywords": {
+          "value": "professional license, renew, licensing, profession"
+        },
+        "serviceId": {
+          "value": "1083"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Apply for Disability Benefits",
+      "description": "Apply for disability benefits through the Social Security Administration.",
+      "elements": {
+        "title": {
+          "value": "Apply for Disability Benefits",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Apply for disability benefits through the Social Security Administration.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Apply for Disability Benefits",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/SSA",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/wheelchair"
+        },
+        "keywords": {
+          "value": "disability benefits, application, SSA, financial aid"
+        },
+        "serviceId": {
+          "value": "2194"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Request Vital Records",
+      "description": "Request copies of birth, death, marriage, and divorce records.",
+      "elements": {
+        "title": {
+          "value": "Request Vital Records",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Request copies of birth, death, marriage, and divorce records.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Request Vital Records",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/file-alt"
+        },
+        "keywords": {
+          "value": "vital records, birth certificate, death certificate, marriage, divorce"
+        },
+        "serviceId": {
+          "value": "3205"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "File a Consumer Complaint",
+      "description": "File a complaint against a business or service provider.",
+      "elements": {
+        "title": {
+          "value": "File a Consumer Complaint",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "File a complaint against a business or service provider.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "File a Consumer Complaint",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/exclamation-triangle"
+        },
+        "keywords": {
+          "value": "consumer complaint, business, service provider, complaint"
+        },
+        "serviceId": {
+          "value": "4316"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Apply for Housing Assistance",
+      "description": "Apply for housing assistance programs.",
+      "elements": {
+        "title": {
+          "value": "Apply for Housing Assistance",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Apply for housing assistance programs.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Apply for Housing Assistance",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCH",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/home"
+        },
+        "keywords": {
+          "value": "housing assistance, rental assistance, housing, programs"
+        },
+        "serviceId": {
+          "value": "5427"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Renew Fishing License",
+      "description": "Renew your fishing license online.",
+      "elements": {
+        "title": {
+          "value": "Renew Fishing License",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Renew your fishing license online.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Renew Fishing License",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCW",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/fish"
+        },
+        "keywords": {
+          "value": "fishing license, renew, wildlife, fishing"
+        },
+        "serviceId": {
+          "value": "6538"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Apply for a Marriage License",
+      "description": "Apply for a marriage license in North Carolina.",
+      "elements": {
+        "title": {
+          "value": "Apply for a Marriage License",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Apply for a marriage license in North Carolina.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Apply for a Marriage License",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/heart"
+        },
+        "keywords": {
+          "value": "marriage license, application, marriage, license"
+        },
+        "serviceId": {
+          "value": "7649"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Report a Road Hazard",
+      "description": "Report road hazards such as potholes or debris.",
+      "elements": {
+        "title": {
+          "value": "Report a Road Hazard",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Report road hazards such as potholes or debris.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Report a Road Hazard",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/road"
+        },
+        "keywords": {
+          "value": "road hazard, report, potholes, debris"
+        },
+        "serviceId": {
+          "value": "8750"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Apply for a Hunting License",
+      "description": "Apply for a hunting license online.",
+      "elements": {
+        "title": {
+          "value": "Apply for a Hunting License",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Apply for a hunting license online.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Apply for a Hunting License",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCW",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/bullseye"
+        },
+        "keywords": {
+          "value": "hunting license, application, wildlife, hunting"
+        },
+        "serviceId": {
+          "value": "9861"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Request Public Records",
+      "description": "Request access to public records.",
+      "elements": {
+        "title": {
+          "value": "Request Public Records",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Request access to public records.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Request Public Records",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/folder-open"
+        },
+        "keywords": {
+          "value": "public records, request, access, records"
+        },
+        "serviceId": {
+          "value": "1972"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Apply for Child Care Assistance",
+      "description": "Apply for financial assistance for child care.",
+      "elements": {
+        "title": {
+          "value": "Apply for Child Care Assistance",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Apply for financial assistance for child care.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Apply for Child Care Assistance",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/child"
+        },
+        "keywords": {
+          "value": "child care assistance, financial aid, child care, assistance"
+        },
+        "serviceId": {
+          "value": "2083"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Renew Boat Registration",
+      "description": "Renew your boat registration online.",
+      "elements": {
+        "title": {
+          "value": "Renew Boat Registration",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Renew your boat registration online.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Renew Boat Registration",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCW",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/ship"
+        },
+        "keywords": {
+          "value": "boat registration, renew, boating, wildlife"
+        },
+        "serviceId": {
+          "value": "2083"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Apply for Senior Services",
+      "description": "Apply for services and programs for seniors.",
+      "elements": {
+        "title": {
+          "value": "Apply for Senior Services",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Apply for services and programs for seniors.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Apply for Senior Services",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/user"
+        },
+        "keywords": {
+          "value": "senior services, programs, assistance, elderly"
+        },
+        "serviceId": {
+          "value": "3194"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Report a Crime",
+      "description": "Report a crime to local law enforcement.",
+      "elements": {
+        "title": {
+          "value": "Report a Crime",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Report a crime to local law enforcement.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Report a Crime",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/shield-alt"
+        },
+        "keywords": {
+          "value": "report crime, law enforcement, police, crime"
+        },
+        "serviceId": {
+          "value": "4305"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Apply for Energy Assistance",
+      "description": "Apply for assistance with energy bills.",
+      "elements": {
+        "title": {
+          "value": "Apply for Energy Assistance",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Apply for assistance with energy bills.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Apply for Energy Assistance",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/lightbulb"
+        },
+        "keywords": {
+          "value": "energy assistance, bills, financial aid, energy"
+        },
+        "serviceId": {
+          "value": "5416"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Renew Pet License",
+      "description": "Renew your pet's license online.",
+      "elements": {
+        "title": {
+          "value": "Renew Pet License",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Renew your pet's license online.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Renew Pet License",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/paw"
+        },
+        "keywords": {
+          "value": "pet license, renew, pets, licensing"
+        },
+        "serviceId": {
+          "value": "6527"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Apply for Veteran Benefits",
+      "description": "Apply for benefits available to veterans.",
+      "elements": {
+        "title": {
+          "value": "Apply for Veteran Benefits",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Apply for benefits available to veterans.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Apply for Veteran Benefits",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/medal"
+        },
+        "keywords": {
+          "value": "veteran benefits, application, veterans, benefits"
+        },
+        "serviceId": {
+          "value": "7638"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Request a Building Permit",
+      "description": "Request a permit for building or construction projects.",
+      "elements": {
+        "title": {
+          "value": "Request a Building Permit",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Request a permit for building or construction projects.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Request a Building Permit",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/building"
+        },
+        "keywords": {
+          "value": "building permit, request, construction, permit"
+        },
+        "serviceId": {
+          "value": "8749"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Apply for a Passport",
+      "description": "Apply for a U.S. passport.",
+      "elements": {
+        "title": {
+          "value": "Apply for a Passport",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Apply for a U.S. passport.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Apply for a Passport",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/DOS",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/passport"
+        },
+        "keywords": {
+          "value": "passport, application, travel, DOS"
+        },
+        "serviceId": {
+          "value": "9850"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Renew Business Registration",
+      "description": "Renew your business registration online.",
+      "elements": {
+        "title": {
+          "value": "Renew Business Registration",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Renew your business registration online.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Renew Business Registration",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCS",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/briefcase"
+        },
+        "keywords": {
+          "value": "business registration, renew, business, registration"
+        },
+        "serviceId": {
+          "value": "1961"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Apply for a Library Card",
+      "description": "Apply for a library card to access public library services.",
+      "elements": {
+        "title": {
+          "value": "Apply for a Library Card",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Apply for a library card to access public library services.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Apply for a Library Card",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/book"
+        },
+        "keywords": {
+          "value": "library card, application, library, public services"
+        },
+        "serviceId": {
+          "value": "2072"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Report a Missing Person",
+      "description": "Report a missing person to local authorities.",
+      "elements": {
+        "title": {
+          "value": "Report a Missing Person",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Report a missing person to local authorities.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Report a Missing Person",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/search"
+        },
+        "keywords": {
+          "value": "missing person, report, authorities, police"
+        },
+        "serviceId": {
+          "value": "3183"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Apply for Child Support",
+      "description": "Apply for child support services.",
+      "elements": {
+        "title": {
+          "value": "Apply for Child Support",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Apply for child support services.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Apply for Child Support",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/child"
+        },
+        "keywords": {
+          "value": "child support, application, services, support"
+        },
+        "serviceId": {
+          "value": "4294"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Renew Professional Certification",
+      "description": "Renew your professional certification online.",
+      "elements": {
+        "title": {
+          "value": "Renew Professional Certification",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Renew your professional certification online.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Renew Professional Certification",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/certificate"
+        },
+        "keywords": {
+          "value": "professional certification, renew, certification, profession"
+        },
+        "serviceId": {
+          "value": "5405"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Apply for a Fishing Permit",
+      "description": "Apply for a fishing permit online.",
+      "elements": {
+        "title": {
+          "value": "Apply for a Fishing Permit",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Apply for a fishing permit online.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Apply for a Fishing Permit",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCW",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/fish"
+        },
+        "keywords": {
+          "value": "fishing permit, application, wildlife, fishing"
+        },
+        "serviceId": {
+          "value": "6516"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Request a Death Certificate",
+      "description": "Request a copy of a death certificate.",
+      "elements": {
+        "title": {
+          "value": "Request a Death Certificate",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Request a copy of a death certificate.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Request a Death Certificate",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/file-alt"
+        },
+        "keywords": {
+          "value": "death certificate, request, vital records, certificate"
+        },
+        "serviceId": {
+          "value": "7627"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Apply for a Building Inspection",
+      "description": "Apply for a building inspection for construction projects.",
+      "elements": {
+        "title": {
+          "value": "Apply for a Building Inspection",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Apply for a building inspection for construction projects.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Apply for a Building Inspection",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/building"
+        },
+        "keywords": {
+          "value": "building inspection, application, construction, inspection"
+        },
+        "serviceId": {
+          "value": "8738"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Renew Hunting Permit",
+      "description": "Renew your hunting permit online.",
+      "elements": {
+        "title": {
+          "value": "Renew Hunting Permit",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Renew your hunting permit online.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Renew Hunting Permit",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCW",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/bullseye"
+        },
+        "keywords": {
+          "value": "hunting permit, renew, wildlife, hunting"
+        },
+        "serviceId": {
+          "value": "9849"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Apply for a Birth Certificate",
+      "description": "Apply for a copy of a birth certificate.",
+      "elements": {
+        "title": {
+          "value": "Apply for a Birth Certificate",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Apply for a copy of a birth certificate.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Apply for a Birth Certificate",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/file-alt"
+        },
+        "keywords": {
+          "value": "birth certificate, application, vital records, certificate"
+        },
+        "serviceId": {
+          "value": "1950"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Request a Marriage Certificate",
+      "description": "Request a copy of a marriage certificate.",
+      "elements": {
+        "title": {
+          "value": "Request a Marriage Certificate",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Request a copy of a marriage certificate.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Request a Marriage Certificate",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/file-alt"
+        },
+        "keywords": {
+          "value": "marriage certificate, request, vital records, certificate"
+        },
+        "serviceId": {
+          "value": "2061"
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "cq:model": "/conf/residentportal/settings/dam/cfm/models/government-service",
+      "title": "Apply for a Divorce Certificate",
+      "description": "Apply for a copy of a divorce certificate.",
+      "elements": {
+        "title": {
+          "value": "Apply for a Divorce Certificate",
+          ":type": "text/plain"
+        },
+        "description": {
+          "value": "Apply for a copy of a divorce certificate.",
+          ":type": "text/html"
+        },
+        "link": {
+          "value": "Apply for a Divorce Certificate",
+          ":type": "text/plain"
+        },
+        "agency": {
+          "value": "state-portal:agencies/NCD",
+          ":type": "tag"
+        },
+        "icon": {
+          "value": "fontawesome:icon/file-alt"
+        },
+        "keywords": {
+          "value": "divorce certificate, application, vital records, certificate"
+        },
+        "serviceId": {
+          "value": "3172"
+        }
+      }
+    }
+  }
+]

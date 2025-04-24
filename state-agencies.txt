@@ -1,0 +1,321 @@
+1. **Renew Driver's License**
+   - **Description**: Renew your North Carolina driver's license online.
+   - **Link**: Renew Driver's License
+   - **Agency**: state-portal:agency/NCD
+   - **Icon**: fontawesome:icon/id-card
+   - **Keywords**: driver's license, renew, DMV, driving
+   - **Service ID**: 1023
+
+2. **Register to Vote**
+   - **Description**: Register to vote in North Carolina elections.
+   - **Link**: Register to Vote
+   - **Agency**: state-portal:agency/NCS
+   - **Icon**: fontawesome:icon/vote-yea
+   - **Keywords**: vote, registration, elections, democracy
+   - **Service ID**: 2045
+
+3. **Apply for Unemployment Benefits**
+   - **Description**: Apply for unemployment benefits if you have lost your job.
+   - **Link**: Apply for Unemployment Benefits
+   - **Agency**: state-portal:agency/ESC
+   - **Icon**: fontawesome:icon/briefcase
+   - **Keywords**: unemployment, benefits, job loss, financial aid
+   - **Service ID**: 3098
+
+4. **Renew Vehicle Registration**
+   - **Description**: Renew your vehicle registration online.
+   - **Link**: Renew Vehicle Registration
+   - **Agency**: state-portal:agency/NCD
+   - **Icon**: fontawesome:icon/car
+   - **Keywords**: vehicle, registration, renew, DMV
+   - **Service ID**: 4127
+
+5. **Apply for Medicaid**
+   - **Description**: Apply for Medicaid health coverage.
+   - **Link**: Apply for Medicaid
+   - **Agency**: state-portal:agency/NCD
+   - **Icon**: fontawesome:icon/medkit
+   - **Keywords**: Medicaid, health coverage, insurance, medical
+   - **Service ID**: 5234
+
+6. **Pay Property Taxes**
+   - **Description**: Pay your property taxes online.
+   - **Link**: Pay Property Taxes
+   - **Agency**: state-portal:agency/NCD
+   - **Icon**: fontawesome:icon/home
+   - **Keywords**: property taxes, payment, taxes, finance
+   - **Service ID**: 6341
+
+7. **Apply for Food Assistance (SNAP)**
+   - **Description**: Apply for food assistance through the Supplemental Nutrition Assistance Program (SNAP).
+   - **Link**: Apply for Food Assistance
+   - **Agency**: state-portal:agency/NCD
+   - **Icon**: fontawesome:icon/utensils
+   - **Keywords**: food assistance, SNAP, nutrition, benefits
+   - **Service ID**: 7458
+
+8. **Report Child Abuse**
+   - **Description**: Report suspected child abuse or neglect.
+   - **Link**: Report Child Abuse
+   - **Agency**: state-portal:agency/NCD
+   - **Icon**: fontawesome:icon/child
+   - **Keywords**: child abuse, report, protection, welfare
+   - **Service ID**: 8569
+
+9. **Apply for a Business License**
+   - **Description**: Apply for a business license to operate in North Carolina.
+   - **Link**: Apply for a Business License
+   - **Agency**: state-portal:agency/NCS
+   - **Icon**: fontawesome:icon/briefcase
+   - **Keywords**: business license, application, business, registration
+   - **Service ID**: 9672
+
+10. **Renew Professional License**
+    - **Description**: Renew your professional license online.
+    - **Link**: Renew Professional License
+    - **Agency**: state-portal:agency/NCD
+    - **Icon**: fontawesome:icon/id-badge
+    - **Keywords**: professional license, renew, licensing, profession
+    - **Service ID**: 1083
+
+11. **Apply for Disability Benefits**
+    - **Description**: Apply for disability benefits through the Social Security Administration.
+    - **Link**: Apply for Disability Benefits
+    - **Agency**: state-portal:agency/SSA
+    - **Icon**: fontawesome:icon/wheelchair
+    - **Keywords**: disability benefits, application, SSA, financial aid
+    - **Service ID**: 2194
+
+12. **Request Vital Records**
+    - **Description**: Request copies of birth, death, marriage, and divorce records.
+    - **Link**: Request Vital Records
+    - **Agency**: state-portal:agency/NCD
+    - **Icon**: fontawesome:icon/file-alt
+    - **Keywords**: vital records, birth certificate, death certificate, marriage, divorce
+    - **Service ID**: 3205
+
+13. **File a Consumer Complaint**
+    - **Description**: File a complaint against a business or service provider.
+    - **Link**: File a Consumer Complaint
+    - **Agency**: state-portal:agency/NCD
+    - **Icon**: fontawesome:icon/exclamation-triangle
+    - **Keywords**: consumer complaint, business, service provider, complaint
+    - **Service ID**: 4316
+
+14. **Apply for Housing Assistance**
+    - **Description**: Apply for housing assistance programs.
+    - **Link**: Apply for Housing Assistance
+    - **Agency**: state-portal:agency/NCH
+    - **Icon**: fontawesome:icon/home
+    - **Keywords**: housing assistance, rental assistance, housing, programs
+    - **Service ID**: 5427
+
+15. **Renew Fishing License**
+    - **Description**: Renew your fishing license online.
+    - **Link**: Renew Fishing License
+    - **Agency**: state-portal:agency/NCW
+    - **Icon**: fontawesome:icon/fish
+    - **Keywords**: fishing license, renew, wildlife, fishing
+    - **Service ID**: 6538
+
+16. **Apply for a Marriage License**
+    - **Description**: Apply for a marriage license in North Carolina.
+    - **Link**: Apply for a Marriage License
+    - **Agency**: state-portal:agency/NCD
+    - **Icon**: fontawesome:icon/heart
+    - **Keywords**: marriage license, application, marriage, license
+    - **Service ID**: 7649
+
+17. **Report a Road Hazard**
+    - **Description**: Report road hazards such as potholes or debris.
+    - **Link**: Report a Road Hazard
+    - **Agency**: state-portal:agency/NCD
+    - **Icon**: fontawesome:icon/road
+    - **Keywords**: road hazard, report, potholes, debris
+    - **Service ID**: 8750
+
+18. **Apply for a Hunting License**
+    - **Description**: Apply for a hunting license online.
+    - **Link**: Apply for a Hunting License
+    - **Agency**: state-portal:agency/NCW
+    - **Icon**: fontawesome:icon/bullseye
+    - **Keywords**: hunting license, application, wildlife, hunting
+    - **Service ID**: 9861
+
+19. **Request Public Records**
+    - **Description**: Request access to public records.
+    - **Link**: Request Public Records
+    - **Agency**: state-portal:agency/NCD
+    - **Icon**: fontawesome:icon/folder-open
+    - **Keywords**: public records, request, access, records
+    - **Service ID**: 1972
+
+20. **Apply for Child Care Assistance**
+    - **Description**: Apply for financial assistance for child care.
+    - **Link**: Apply for Child Care Assistance
+    - **Agency**: state-portal:agency/NCD
+    - **Icon**: fontawesome:icon/child
+    - **Keywords**: child care assistance, financial aid, child care, assistance
+    - **Service ID**: 2083
+
+Sure! Here are the remaining services for citizens of North Carolina:
+
+21. **Renew Boat Registration**
+    - **Description**: Renew your boat registration online.
+    - **Link**: Renew Boat Registration
+    - **Agency**: state-portal:agency/NCW
+    - **Icon**: fontawesome:icon/ship
+    - **Keywords**: boat registration, renew, boating, wildlife
+    - **Service ID**: 2083
+
+22. **Apply for Senior Services**
+    - **Description**: Apply for services and programs for seniors.
+    - **Link**: Apply for Senior Services
+    - **Agency**: state-portal:agency/NCD
+    - **Icon**: fontawesome:icon/user
+    - **Keywords**: senior services, programs, assistance, elderly
+    - **Service ID**: 3194
+
+23. **Report a Crime**
+    - **Description**: Report a crime to local law enforcement.
+    - **Link**: Report a Crime
+    - **Agency**: state-portal:agency/NCD
+    - **Icon**: fontawesome:icon/shield-alt
+    - **Keywords**: report crime, law enforcement, police, crime
+    - **Service ID**: 4305
+
+24. **Apply for Energy Assistance**
+    - **Description**: Apply for assistance with energy bills.
+    - **Link**: Apply for Energy Assistance
+    - **Agency**: state-portal:agency/NCD
+    - **Icon**: fontawesome:icon/lightbulb
+    - **Keywords**: energy assistance, bills, financial aid, energy
+    - **Service ID**: 5416
+
+25. **Renew Pet License**
+    - **Description**: Renew your pet's license online.
+    - **Link**: Renew Pet License
+    - **Agency**: state-portal:agency/NCD
+    - **Icon**: fontawesome:icon/paw
+    - **Keywords**: pet license, renew, pets, licensing
+    - **Service ID**: 6527
+
+26. **Apply for Veteran Benefits**
+    - **Description**: Apply for benefits available to veterans.
+    - **Link**: Apply for Veteran Benefits
+    - **Agency**: state-portal:agency/NCD
+    - **Icon**: fontawesome:icon/medal
+    - **Keywords**: veteran benefits, application, veterans, benefits
+    - **Service ID**: 7638
+
+27. **Request a Building Permit**
+    - **Description**: Request a permit for building or construction projects.
+    - **Link**: Request a Building Permit
+    - **Agency**: state-portal:agency/NCD
+    - **Icon**: fontawesome:icon/building
+    - **Keywords**: building permit, request, construction, permit
+    - **Service ID**: 8749
+
+28. **Apply for a Passport**
+    - **Description**: Apply for a U.S. passport.
+    - **Link**: Apply for a Passport
+    - **Agency**: state-portal:agency/DOS
+    - **Icon**: fontawesome:icon/passport
+    - **Keywords**: passport, application, travel, DOS
+    - **Service ID**: 9850
+
+29. **Renew Business Registration**
+    - **Description**: Renew your business registration online.
+    - **Link**: Renew Business Registration
+    - **Agency**: state-portal:agency/NCS
+    - **Icon**: fontawesome:icon/briefcase
+    - **Keywords**: business registration, renew, business, registration
+    - **Service ID**: 1961
+
+30. **Apply for a Library Card**
+    - **Description**: Apply for a library card to access public library services.
+    - **Link**: Apply for a Library Card
+    - **Agency**: state-portal:agency/NCD
+    - **Icon**: fontawesome:icon/book
+    - **Keywords**: library card, application, library, public services
+    - **Service ID**: 2072
+
+31. **Report a Missing Person**
+    - **Description**: Report a missing person to local authorities.
+    - **Link**: Report a Missing Person
+    - **Agency**: state-portal:agency/NCD
+    - **Icon**: fontawesome:icon/search
+    - **Keywords**: missing person, report, authorities, police
+    - **Service ID**: 3183
+
+32. **Apply for Child Support**
+    - **Description**: Apply for child support services.
+    - **Link**: Apply for Child Support
+    - **Agency**: state-portal:agency/NCD
+    - **Icon**: fontawesome:icon/child
+    - **Keywords**: child support, application, services, support
+    - **Service ID**: 4294
+
+33. **Renew Professional Certification**
+    - **Description**: Renew your professional certification online.
+    - **Link**: Renew Professional Certification
+    - **Agency**: state-portal:agency/NCD
+    - **Icon**: fontawesome:icon/certificate
+    - **Keywords**: professional certification, renew, certification, profession
+    - **Service ID**: 5405
+
+34. **Apply for a Fishing Permit**
+    - **Description**: Apply for a fishing permit online.
+    - **Link**: Apply for a Fishing Permit
+    - **Agency**: state-portal:agency/NCW
+    - **Icon**: fontawesome:icon/fish
+    - **Keywords**: fishing permit, application, wildlife, fishing
+    - **Service ID**: 6516
+
+35. **Request a Death Certificate**
+    - **Description**: Request a copy of a death certificate.
+    - **Link**: Request a Death Certificate
+    - **Agency**: state-portal:agency/NCD
+    - **Icon**: fontawesome:icon/file-alt
+    - **Keywords**: death certificate, request, vital records, certificate
+    - **Service ID**: 7627
+
+36. **Apply for a Building Inspection**
+    - **Description**: Apply for a building inspection for construction projects.
+    - **Link**: Apply for a Building Inspection
+    - **Agency**: state-portal:agency/NCD
+    - **Icon**: fontawesome:icon/building
+    - **Keywords**: building inspection, application, construction, inspection
+    - **Service ID**: 8738
+
+37. **Renew Hunting Permit**
+    - **Description**: Renew your hunting permit online.
+    - **Link**: Renew Hunting Permit
+    - **Agency**: state-portal:agency/NCW
+    - **Icon**: fontawesome:icon/bullseye
+    - **Keywords**: hunting permit, renew, wildlife, hunting
+    - **Service ID**: 9849
+
+38. **Apply for a Birth Certificate**
+    - **Description**: Apply for a copy of a birth certificate.
+    - **Link**: Apply for a Birth Certificate
+    - **Agency**: state-portal:agency/NCD
+    - **Icon**: fontawesome:icon/file-alt
+    - **Keywords**: birth certificate, application, vital records, certificate
+    - **Service ID**: 1950
+
+39. **Request a Marriage Certificate**
+    - **Description**: Request a copy of a marriage certificate.
+    - **Link**: Request a Marriage Certificate
+    - **Agency**: state-portal:agency/NCD
+    - **Icon**: fontawesome:icon/file-alt
+    - **Keywords**: marriage certificate, request, vital records, certificate
+    - **Service ID**: 2061
+
+40. **Apply for a Divorce Certificate**
+    - **Description**: Apply for a copy of a divorce certificate.
+    - **Link**: Apply for a Divorce Certificate
+    - **Agency**: state-portal:agency/NCD
+    - **Icon**: fontawesome:icon/file-alt
+    - **Keywords**: divorce certificate, application, vital records, certificate
+    - **Service ID**: 3172
