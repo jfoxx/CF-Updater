@@ -1,3 +1,4 @@
 north_carolina_services_with_ids.json
 .DS_Store
 demo1cloud-service-credentials.json
+node_modules/*
